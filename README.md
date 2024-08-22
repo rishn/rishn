@@ -19,11 +19,6 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - [MEXA](https://github.com/rishn/mexa)
 - [Business Management Platform](https://github.com/rishn/MERN-Project-Company)
 
-## 🔍 What I’m Exploring
-- Advanced Frontend Development with React and TypeScript
-- Integration of ROS with Node or React Applications
-- Computer Vision techniques for contour detection and shape regularization
-
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rishn)
 
