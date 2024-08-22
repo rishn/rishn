@@ -15,9 +15,8 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
 
 ## 📈 Latest Projects
-- [Selichot](https://github.com/rishn/Selichot)
-- [MEXA](https://github.com/rishn/mexa)
 - [Business Management Platform](https://github.com/rishn/MERN-Project-Company)
+- [QML Fraud Detection](https://github.com/rishn/QML-Fraud-Detection)
 
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rishn)
