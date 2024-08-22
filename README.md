@@ -15,9 +15,9 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
 
 ## 📈 Latest Projects
-- [Selichot Learning App](https://github.com/rishn/Selichot)
+- [Selichot](https://github.com/rishn/Selichot)
 - [MEXA](https://github.com/rishn/mexa)
-- [Business Management Platform](https://github.com/rishn/business-company)
+- [Business Management Platform](https://github.com/rishn/MERN-Project-Company)
 
 ## 🔍 What I’m Exploring
 - Advanced Frontend Development with React and TypeScript
