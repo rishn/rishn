@@ -21,4 +21,3 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rishn)
 
-Thanks for visiting my profile!
