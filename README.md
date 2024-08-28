@@ -21,8 +21,6 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ## 📊 GitHub Stats
 ![Rishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishn&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs,prs&hide_border=true&theme=radical)
 
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=rishn&theme=github)](https://github.com/rishn)
-
 ## 💬 Profiles
 - LinkedIn [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.linkedin.com/in/rishaanjacob)
 - HackerRank [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=2ec866" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.hackerrank.com/rishaan)
