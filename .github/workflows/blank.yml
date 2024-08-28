@@ -1,15 +1,24 @@
 name: Commit Stats
+
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering from GitHub UI
+
 jobs:
   commits:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Fetch commit data
-        run: |
-          git log --since="1 year ago" --pretty=format:"%h %s" > commits_last_year.txt
+    - name: Checkout code
+      uses: actions/checkout@v2
 
+    - name: Display commit history
+      run: |
+        echo "Current Date: $(date)"
+        git log --since="1 year ago" --pretty=format:"%h %s"
+    
+    - name: Fetch commit data
+      run: |
+        git log --since="1 year ago" --pretty=format:"%h %s" > commits_last_year.txt
+        ls -la
+        cat commits_last_year.txt
