@@ -4,10 +4,10 @@ I'm a passionate developer with a keen interest in building scalable web applica
 
 ## 🚀 Skills & Expertise
 - **Languages:** Python, Java, C/C++, JavaScript (TypeScript), SQL
-- **Frontend Development:** React.js, React + Typescript, Redux Toolkit, CSS/HTML, Ant Design
+- **Frontend Development:** React.js, React + TypeScript, Redux Toolkit, CSS/HTML, Ant Design
 - **Backend Development:** Express, MongoDB, Django, Microsoft Azure
 - **Data Science & Machine Learning:** PyTorch, OpenCV, scikit-learn, Qiskit, YOLO, ROS, AzureML
-- **DevOps & Tools:** Git/GitHub, Linux, AzureML, Firebase, Azure SDK
+- **Developer Tools:** Git/GitHub, Linux, AzureML, Firebase, Azure SDK
 - **Others:** Graphic Design (Figma, Canva), Project Management
 
 ## 🌱 Currently Working On
@@ -18,6 +18,12 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - [Business Management Platform](https://github.com/rishn/MERN-Project-Company)
 - [QML Fraud Detection](https://github.com/rishn/QML-Fraud-Detection)
 
-## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/rishn)
+## 📊 GitHub Stats
+![Rishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishn&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs,prs&hide_border=true&theme=radical)
 
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=rishn&theme=github)](https://github.com/rishn)
+
+## 💬 Profiles
+- LinkedIn [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.linkedin.com/in/rishaanjacob)
+- HackerRank [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=2ec866" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.hackerrank.com/rishaan)
+- LeetCode [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://leetcode.com/u/rshaan)
