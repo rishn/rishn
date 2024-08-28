@@ -1,0 +1,14 @@
+name: Commit Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+jobs:
+  commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Fetch commit data
+        run: |
+          git log --since="1 year ago" --pretty=format:"%h %s" > commits_last_year.txt
+
