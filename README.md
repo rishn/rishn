@@ -15,6 +15,8 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
 
 ## 📈 Latest Projects
+- [GameSense - Adobe GenSolve 24](https://github.com/rishn/Adobe-GenSolve-24-Finale)
+- [Curvetopia - Adobe GenSolve 24](https://github.com/Harsh9316/Adobe_GenSolve_Curvetopia)
 - [Business Management Platform](https://github.com/rishn/MERN-Project-Company)
 - [QML Fraud Detection](https://github.com/rishn/QML-Fraud-Detection)
 
