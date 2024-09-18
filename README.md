@@ -11,7 +11,6 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **Others:** Graphic Design (Figma, Canva), Project Management
 
 ## 🌱 Currently Working On
-- **Selichot Learning App** - A React-based web app that provides traditional Bene-Israeli Selichot prayers with audio support and an integrated calendar.
 - **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
 
 ## 📈 Latest Projects
