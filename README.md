@@ -16,7 +16,7 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ## 📈 Latest Projects
 - [GameSense - Adobe GenSolve 24](https://github.com/rishn/Adobe-GenSolve24-Finale)
 - [Curvetopia - Adobe GenSolve 24](https://github.com/Harsh9316/Adobe_GenSolve_Curvetopia)
-- [Business Management Platform](https://github.com/rishn/MERN-Project-Company)
+- [Selichot Learning App](https://github.com/rishn/Selichot)
 - [QML Fraud Detection](https://github.com/rishn/QML-Fraud-Detection)
 
 ## 📊 GitHub Stats
