@@ -1,6 +1,6 @@
 # Hi, I'm Rishaan! 👋
 
-I'm a passionate developer with a keen interest in building scalable web applications, working on creative projects, and constantly learning new technologies. I love exploring the intersections between Computer Vision, Software Development, Machine Learning, and IoT. Here are a few things I specialize in:
+I'm a passionate developer with a keen interest in building scalable web applications, working on creative projects, and constantly learning new technologies. I love exploring the intersections between Computer Vision, Software Development, Machine Learning, and Cloud Computing. Here are a few things I specialize in:
 
 ## 🚀 Skills & Expertise
 - **Languages:** Python, Java, C/C++, JavaScript (TypeScript), SQL
