@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **Languages:** Python, Java, C/C++, JavaScript (TypeScript), SQL
 - **Frontend Development:** React.js, React + TypeScript, Redux Toolkit, CSS/HTML, Ant Design
 - **Backend Development:** Express, MongoDB, Django, Microsoft Azure
-- **Data Science & Machine Learning:** PyTorch, OpenCV, scikit-learn, Qiskit, YOLO, ROS, AzureML
+- **Computer Vision & Machine Learning:** PyTorch, OpenCV, scikit-learn, Qiskit, YOLO, ROS, AzureML
 - **Developer Tools:** Git/GitHub, Linux, AzureML, Firebase, Azure SDK
 - **Others:** Graphic Design (Figma, Canva), Project Management
 
