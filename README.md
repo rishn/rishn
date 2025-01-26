@@ -14,10 +14,10 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
 
 ## 📈 Latest Projects
+- [Good to Go! Logistics App](https://github.com/rishn/Good-to-Go)
 - [GameSense - Adobe GenSolve 24](https://github.com/rishn/Adobe-GenSolve-Finale)
 - [Curvetopia - Adobe GenSolve 24](https://github.com/rishn/Adobe-GenSolve-Curvetopia)
 - [Selichot Learning App](https://github.com/rishn/Selichot)
-- [QML Fraud Detection](https://github.com/rishn/QML-Fraud-Detection)
 
 ## 📊 GitHub Stats
 ![Rishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishn&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs,prs,stars&hide_border=true&theme=radical&hide_rank=true)</br></br>
