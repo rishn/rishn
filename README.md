@@ -72,7 +72,7 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ![Rishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishn&show_icons=true&hide_title=true&count_private=true&hide=issues,prs&hide_border=true&theme=radical&hide_rank=true)
 <img src="https://streak-stats.demolab.com?user=rishn&theme=radical&hide_border=true&hide_current_streak=true&hide_longest_streak=true" width="290"/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishn&layout=compact&bg_color=141321&text_color=a9fef7&hide_border=true&title_color=ffffff&exclude_repo=QML-Fraud-Detection,HW_2024_Test,Adobe-GenSolve-Curvetopia,Drone-Detection)
-![gif](https://github.com/rishn/rishn/blob/output/github-contribution-grid-snake.svg)
+![gif](https://github.com/rishn/rishn/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ## Profiles
 - LinkedIn [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.linkedin.com/in/rishaanjacob)
