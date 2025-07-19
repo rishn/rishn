@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rishn&margin-w=8&theme=flat&no-frame=true&no-bg=true&title=Commit,Repositories,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Hi, I'm Rishaan! 👋
+# Hi, I'm Rishaan!
 
 I'm a passionate developer with a keen interest in building scalable web applications, working on creative projects, and constantly learning new technologies. I love exploring the intersections between Computer Vision, Software Development, Machine Learning, and Cloud Computing. Here are a few things I specialize in:
 
