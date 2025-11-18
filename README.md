@@ -6,15 +6,16 @@ I'm a passionate developer with a keen interest in building scalable web applica
 
 ## Skills & Expertise
 - **Languages:** Arduino, C#, C/C++, CSS, HTML, Java, JavaScript, Markdown, Python, R, SQL, TypeScript
-- **Frontend Development:** Ant Design, CSS3, HTML5, JSX, Next.js, React + TypeScript, React Native, React.js, Redux Toolkit, Tailwind CSS
-- **Backend Development:** ASP.NET, Django, Express.js, IIS, MongoDB, MySQL, Node.js, REST APIs, Sequelize ORM, WebSocket APIs
-- **Desktop & Full-Stack Development:** Electron, Electron Builder, EXE Packaging, NSSM, PM2, Windows Auto-Login, YAML, .NET
-- **Cloud Platforms & DevOps:** AWS, AWS Amplify, Azure SDK, Azure Databricks, Firebase, GitHub Actions, Microsoft Azure, SSL/TLS Certificates, Windows Server Hosting, Enterprise Certificate Management
-- **ML & Gen-AI:** BERT, HuggingFace Transformers, LLMs, NLP, OpenAI GPT-4o, Qiskit, Reinforcement Learning, scikit-learn
+- **Frontend Development:** Ant Design, CSS3, HTML5, JSX, Next.js, React + TypeScript, React Native, React.js, Redux Toolkit, Tailwind CSS, Vite
+- **Backend Development:** ASP.NET, Django, Express.js, Flask, IIS, MongoDB, MySQL, Node.js, REST APIs, Sequelize ORM, WebSocket APIs, Microservices, Firestore
+- **Desktop & Full-Stack Development:** Electron, Electron Builder, EXE Packaging, NSSM, PM2, Windows Auto-Login, YAML, .NET, Authentication
+- **Cloud Platforms & DevOps:** AWS, AWS Amplify, Azure SDK, Azure Databricks, Firebase, Google Cloud (GCP), GitHub Actions, Microsoft Azure, SSL/TLS Certificates, Windows Server Hosting, Enterprise Certificate Management, Docker, Kubernetes, Grafana, GitHub Actions, GitLab CI, Jenkins, Power Automate, Power BI, Power Apps
+- **ML & Gen-AI:** BERT, HuggingFace Transformers, LLMs, NLP, OpenAI, Qiskit, Reinforcement Learning, scikit-learn, Copilot Studio
 - **Computer Vision & OCR:** Dlib, EAST Detector, EasyOCR, OpenCV, PyTorch, ROS, YOLO
 - **Visualization & Dashboards:** Animated SVGs, Chart.js, Dynamic Dashboards, Excel Automation (openpyxl, xlwings), Recharts
 - **Automation, Parsing & Scripting:** Automation Scripts, CSV/JSON/XML Handling, Custom Parsers, Regex
 - **Developer Tools:** Azure Databricks, Bitbucket, CLI, Git, GitHub, Google Colab, Jupyter Notebook, Linux, Node-RED, Playwright, Postman, Selenium, Tinkercad, Visual Studio, VS Code
+- **Data Engineering / IoT:** Data Modeling, KNIME, Data Warehousing, Azure Databricks, Node-RED, ThingSpeak, Arduino IoT, Pandas, NumPy
 - **UI/UX Design:** Canva, Figma
 
 ### Tech Stack
@@ -31,20 +32,26 @@ I'm a passionate developer with a keen interest in building scalable web applica
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-20232A?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /> 
+<img src="https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /> 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> 
 
 <!-- DevOps & Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-D24939?style=for-the-badge&logo=google&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -52,6 +59,9 @@ I'm a passionate developer with a keen interest in building scalable web applica
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Copilot%20Studio-06B6D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot Studio" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20Automate-0178D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate (may need logo name adjust)" />
 
 <!-- ML & CV -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -65,6 +75,7 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
 
 ## Latest Projects
+- [Wordler](https://github.com/rishn/Wordler)
 - [WhatsApp Plus](https://github.com/rishn/WhatsApp-Plus)
 - [Selichot Learning App](https://github.com/rishn/Selichot)
 
