@@ -71,13 +71,12 @@ I'm a passionate developer with a keen interest in building scalable web applica
 
 ## Currently Working On
 - Exploring the principles of Digital Transformation through hands-on work with cloud technologies.
-- Deep-diving into REST API architecture — including strategies for converting stateful APIs into stateless, scalable, and cloud-optimized services.
-- **MEXA** - A React TypeScript project for an education-related examination-assistance application featuring a login form, dashboard, profile management, examination pages, course browsing, and settings for theme changes.
+- Understanding semantic segmentation, image matting, and image compositing techniques, along with human–computer interaction principles.
 
 ## Latest Projects
+- [Quinnotate](https://github.com/rishn/Quinnotate)
 - [Wordler](https://github.com/rishn/Wordler)
 - [WhatsApp Plus](https://github.com/rishn/WhatsApp-Plus)
-- [Selichot Learning App](https://github.com/rishn/Selichot)
 
 ## GitHub Stats
 ![Rishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishn&show_icons=true&hide_title=true&count_private=true&hide=issues,prs&hide_border=true&theme=radical&hide_rank=true)
