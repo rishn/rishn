@@ -1,22 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=rishn&margin-w=8&theme=flat&no-frame=true&no-bg=true&title=Commit,Repositories,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishn&margin-w=8&theme=flat&no-frame=true&no-bg=true&title=Commit,Repositories,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Hi, I'm Rishaan!
 
-I'm a passionate developer with a keen interest in building scalable web applications, working on creative projects, and constantly learning new technologies. I love exploring the intersections between Computer Vision, Software Development, Machine Learning, and Cloud Computing. Here are a few things I specialize in:
-
-## Skills & Expertise
-- **Languages:** Arduino, C#, C/C++, CSS, HTML, Java, JavaScript, Markdown, Python, R, SQL, TypeScript
-- **Frontend Development:** Ant Design, CSS3, HTML5, JSX, Next.js, React + TypeScript, React Native, React.js, Redux Toolkit, Tailwind CSS, Vite
-- **Backend Development:** ASP.NET, Django, Express.js, Flask, IIS, MongoDB, MySQL, Node.js, REST APIs, Sequelize ORM, WebSocket APIs, Microservices, Firestore
-- **Desktop & Full-Stack Development:** Electron, Electron Builder, EXE Packaging, NSSM, PM2, Windows Auto-Login, YAML, .NET, Authentication
-- **Cloud Platforms & DevOps:** AWS, AWS Amplify, Azure SDK, Azure Databricks, Firebase, Google Cloud (GCP), GitHub Actions, Microsoft Azure, SSL/TLS Certificates, Windows Server Hosting, Enterprise Certificate Management, Docker, Kubernetes, Grafana, GitHub Actions, GitLab CI, Jenkins, Power Automate, Power BI, Power Apps
-- **ML & Gen-AI:** BERT, HuggingFace Transformers, LLMs, NLP, OpenAI, Qiskit, Reinforcement Learning, scikit-learn, Copilot Studio
-- **Computer Vision & OCR:** Dlib, EAST Detector, EasyOCR, OpenCV, PyTorch, ROS, YOLO
-- **Visualization & Dashboards:** Animated SVGs, Chart.js, Dynamic Dashboards, Excel Automation (openpyxl, xlwings), Recharts
-- **Automation, Parsing & Scripting:** Automation Scripts, CSV/JSON/XML Handling, Custom Parsers, Regex
-- **Developer Tools:** Azure Databricks, Bitbucket, CLI, Git, GitHub, Google Colab, Jupyter Notebook, Linux, Node-RED, Playwright, Postman, Selenium, Tinkercad, Visual Studio, VS Code
-- **Data Engineering / IoT:** Data Modeling, KNIME, Data Warehousing, Azure Databricks, Node-RED, ThingSpeak, Arduino IoT, Pandas, NumPy
-- **UI/UX Design:** Canva, Figma
+I'm a passionate developer with a keen interest in building scalable web applications, working on creative projects, and constantly learning new technologies. I love exploring the intersections between Computer Vision, Software Development, Machine Learning, and Cloud Computing.
 
 ### Tech Stack
 <!-- Languages -->
@@ -74,9 +60,76 @@ I'm a passionate developer with a keen interest in building scalable web applica
 - Understanding semantic segmentation, image matting, and image compositing techniques, along with human–computer interaction principles.
 
 ## Latest Projects
-- [Quinnotate](https://github.com/rishn/Quinnotate)
-- [Wordler](https://github.com/rishn/Wordler)
-- [WhatsApp Plus](https://github.com/rishn/WhatsApp-Plus)
+<p align="center">
+  <a href="https://github.com/rishn/Quinnotate"><img src="https://github.com/rishn/Quinnotate/blob/main/Quinnotate.png" width="120"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/Wordler"><img src="https://github.com/rishn/Wordler/blob/main/assets/WordlerAnimation.gif" width="120"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/WhatsApp-Plus"><img src="https://github.com/rishn/WhatsApp-Plus/blob/main/assets/WhatsAppPlus.png" width="120"></a>
+</p>
+
+<!--
+<p align="center">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/Quinnotate">Quinnotate</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/Wordler">Wordler</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/WhatsApp-Plus">WhatsApp Plus</a>
+</p>
+-->
+
+<p align="center">
+  &nbsp;&nbsp;
+  <a href="https://github.com/rishn/Quinnotate"><img src="https://img.shields.io/badge/Quinnotate-black?style=flat"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/Wordler"><img src="https://img.shields.io/badge/Wordler-black?style=flat"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/WhatsApp-Plus"><img src="https://img.shields.io/badge/WhatsApp%20Plus-black?style=flat"></a>
+</p>
+
+
+<!--
+### Educify Suite
+<div align="center">
+  <a href="https://github.com/rishn/Quinnotate" target="_blank"><img src="https://github.com/rishn/Quinnotate/blob/main/Quinnotate.png" alt="Wordler logo" width="100" height="100" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/Wordler" target="_blank"><img src="https://github.com/rishn/Wordler/blob/main/assets/WordlerAnimation.gif" alt="Wordler logo" width="100" height="100" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/Selichot" target="_blank"><img src="https://github.com/rishn/Selichot/blob/main/assets/Selichot.png" alt="Selichot logo" width="100" height="100" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/MEXA" target="_blank"><img src="https://github.com/rishn/MEXA/blob/main/assets/MEXA.png" alt="Selichot logo" width="100" height="100" /></a>
+</div>
+
+### Miscellaneous
+<div align="center">
+  <a href="https://github.com/rishn/Good-To-Go" target="_blank"><img src="https://github.com/rishn/Good-To-Go/blob/main/public/background.png" alt="GoodToGo logo" width="100" height="100" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/QML-Fraud-Detection" target="_blank">QML</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/CoAI-PCB" target="_blank">CoAI-PCB</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/DBAS" target="_blank">DBAS</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/RJKTQ" target="_blank"><img src="https://github.com/rishn/RJKTQ/blob/main/Official Logo.ico" alt="RJKTQ logo" width="100" height="100" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rishn/PSIM" target="_blank"><img src="https://github.com/rishn/PSIM/blob/main/Logo.ico" alt="PSIM logo" width="100" height="100" /></a>
+</div>
+-->
+
+## Skills & Expertise
+- **Languages:** Arduino, C#, C/C++, CSS, HTML, Java, JavaScript, Markdown, Python, R, SQL, TypeScript
+- **Frontend Development:** Ant Design, CSS3, HTML5, JSX, Next.js, React + TypeScript, React Native, React.js, Redux Toolkit, Tailwind CSS, Vite
+- **Backend Development:** ASP.NET, Django, Express.js, Flask, IIS, MongoDB, MySQL, Node.js, REST APIs, Sequelize ORM, WebSocket APIs, Microservices, Firestore
+- **Desktop & Full-Stack Development:** Electron, Electron Builder, EXE Packaging, NSSM, PM2, Windows Auto-Login, YAML, .NET, Authentication
+- **Cloud Platforms & DevOps:** AWS, AWS Amplify, Azure SDK, Azure Databricks, Firebase, Google Cloud (GCP), GitHub Actions, Microsoft Azure, SSL/TLS Certificates, Windows Server Hosting, Enterprise Certificate Management, Docker, Kubernetes, Grafana, GitHub Actions, GitLab CI, Jenkins, Power Automate, Power BI, Power Apps
+- **ML & Gen-AI:** BERT, HuggingFace Transformers, LLMs, NLP, OpenAI, Qiskit, Reinforcement Learning, scikit-learn, Copilot Studio
+- **Computer Vision & OCR:** Dlib, EAST Detector, EasyOCR, OpenCV, PyTorch, ROS, YOLO
+- **Visualization & Dashboards:** Animated SVGs, Chart.js, Dynamic Dashboards, Excel Automation (openpyxl, xlwings), Recharts
+- **Automation, Parsing & Scripting:** Automation Scripts, CSV/JSON/XML Handling, Custom Parsers, Regex
+- **Developer Tools:** Azure Databricks, Bitbucket, CLI, Git, GitHub, Google Colab, Jupyter Notebook, Linux, Node-RED, Playwright, Postman, Selenium, Tinkercad, Visual Studio, VS Code
+- **Data Engineering / IoT:** Data Modeling, KNIME, Data Warehousing, Azure Databricks, Node-RED, ThingSpeak, Arduino IoT, Pandas, NumPy
+- **UI/UX Design:** Canva, Figma
 
 ## GitHub Stats
 ![Rishaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishn&show_icons=true&hide_title=true&count_private=true&hide=issues,prs&hide_border=true&theme=radical&hide_rank=true)
@@ -84,6 +137,10 @@ I'm a passionate developer with a keen interest in building scalable web applica
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishn&layout=compact&bg_color=141321&text_color=a9fef7&hide_border=true&title_color=ffffff&exclude_repo=QML-Fraud-Detection,HW_2024_Test,Adobe-GenSolve-Curvetopia,Drone-Detection,Cognitive-Robotics-Pen-Detection)
 
 ## Profiles
-- LinkedIn [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.linkedin.com/in/rishaanjacob)
-- HackerRank [<img width="30" height="30" src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=2ec866" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://www.hackerrank.com/rishaan)
-- LeetCode [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://leetcode.com/u/rshaan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishaanjacob"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="60"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="hhttps://www.hackerrank.com/rishaan"><img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=2ec866" width="60"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/rshaan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"  width="50"></a>
+</p>
